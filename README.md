@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**madhvisingh265/madhvisingh265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Madhvi Singh 👋
 
-Here are some ideas to get you started:
+📊 Data Analyst | Turning data into insights  
+💡 Passionate about data, visualization & storytelling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ About Me
+- 📊 Skilled in data analysis and visualization  
+- 📈 Love finding insights from data  
+- 🧠 Always learning new tools  
+
+## 💻 Tech Stack
+- Python 🐍  
+- SQL 🗄️  
+- Excel 📊
+
+## 📊 What I Do
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Creation  
+- Reporting & Insights  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/madhvi-singh-885222344
