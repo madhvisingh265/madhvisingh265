@@ -25,5 +25,4 @@
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/madhvi-singh-885222344
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhvi-singh-885222344/)
